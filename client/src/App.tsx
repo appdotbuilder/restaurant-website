@@ -231,7 +231,7 @@ function App() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-lg mb-2">📧 Email</h4>
-                  <p className="text-slate-300">reservations@restaurant.com</p>
+                  <p className="text-slate-300">reservations@whaazy.com</p>
                 </div>
                 <div>
                   <h4 className="font-semibold text-lg mb-2">🕒 Hours</h4>
@@ -254,7 +254,7 @@ function App() {
             {/* Brand Column */}
             <div className="md:col-span-2">
               <h3 className="text-2xl font-bold mb-4 text-transparent bg-gradient-to-r from-amber-300 to-orange-400 bg-clip-text">
-                Savor Restaurant
+                Whaazy
               </h3>
               <p className="text-slate-300 mb-6 max-w-md leading-relaxed">
                 Experience the art of dining with our carefully crafted dishes, 
@@ -324,7 +324,7 @@ function App() {
                 </div>
                 <div className="flex items-center">
                   <span className="mr-2">📧</span>
-                  <p>hello@restaurant.com</p>
+                  <p>hello@whaazy.com</p>
                 </div>
               </div>
             </div>
@@ -332,7 +332,7 @@ function App() {
 
           {/* Bottom Bar */}
           <div className="border-t border-slate-700 pt-6 flex flex-col md:flex-row justify-between items-center text-slate-400 text-sm">
-            <p>© 2024 Savor Restaurant. All rights reserved.</p>
+            <p>© 2024 Whaazy. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="hover:text-white transition-colors duration-300">Privacy Policy</a>
               <a href="#" className="hover:text-white transition-colors duration-300">Terms of Service</a>

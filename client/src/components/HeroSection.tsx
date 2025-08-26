@@ -21,10 +21,10 @@ export function HeroSection() {
       {/* Content */}
       <div className="relative z-20 text-center max-w-4xl mx-auto px-4">
         <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-          Savor the Art of
           <span className="block text-transparent bg-gradient-to-r from-amber-300 to-orange-400 bg-clip-text">
-            Dining
+            Whaazy
           </span>
+          Savor the Art of Dining
         </h1>
         
         <p className="text-xl md:text-2xl text-slate-200 mb-8 max-w-2xl mx-auto leading-relaxed">
